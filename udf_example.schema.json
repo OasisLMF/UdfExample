@@ -1,0 +1,69 @@
+{
+  "$id": "http://oasislmf.org/udf_example.schema.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Account",
+  "type": "object",
+  "required": ["AccNumber", "AccStatus", "AccountFinancials", "Locations"],
+  "properties": { 
+    "AccNumber": { "type": "string", "description": "Account number." },
+    "AccStatus": { "type": "string", "description": "Account status." },
+    "AccountFinancials": {
+      "type": "object",
+      "required": ["AccPerils", "AccDedType1Building", "AccDed1Building"],
+      "properties": { 
+        "AccPerils": {	
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "QEQ", "QFF", "QTS", "QSL", "QLS", "QLF", "WTC", "WEC", "WSS", "ORF", "OSF", "XSL",
+              "XTD", "XHL", "ZSN", "ZIC", "ZFZ", "BFR", "BBF", "MNT", "MTR", "XLT", "ZST", "BSK",
+              "QQ1", "WW1", "WW2", "OO1", "ZZ1", "XX1", "XZ1", "MM1", "BB1", "AA1"
+            ]
+          },
+          "description": "Perils for account financial terms."
+        },
+        "AccDedType1Building": {
+          "type": "integer",
+          "enum": [
+            "0", "1", "2"
+          ],
+          "description": "Account building deductible type."
+        },
+        "AccDed1Building": {
+          "type": "number",
+          "description": "Account building deductible.",
+          "minimum": 0.0
+        }
+      }
+    },
+    "Locations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["LocNumber", "LocName", "CountryCode", "Latitude", "Longitude", "StreetAddress", "PostalCode", "City"],
+        "properties": {
+          "LocNumber": { "type": "string", "description": "Location number" },
+          "LocName": { "type": "string", "description": "Location name" },
+          "CountryCode": { "type": "string", "description": "Country code (based on ISO3166 alpha-2 codes)" },
+          "Latitude": {
+            "type": "number",
+            "minimum": -90,
+            "maximum": 90,
+            "description": "Latitude in degrees (-90.0 to +90.0)"
+          },
+          "Longitude": {
+            "type": "number",
+            "minimum": -180,
+            "maximum": 180,
+            "description": "Longitude in degrees (-180.0 to +180.0)"
+          },
+          "StreetAddress": { "type": "string", "description": "Street address including house number " },
+          "PostalCode": { "type": "string", "description": "Postcode: the highest resolution postcode most often used. (e.g. 5 digit zip for the US)." },
+          "City": { "type": "string", "description": "City" }
+        }
+      }
+    }
+  }
+}
