@@ -1,0 +1,184 @@
+[
+    {
+        "AccNumber": "nulla commodo ea labore Lore",
+        "AccStatus": "dolor fugiat",
+        "AccountFinancials": {
+            "AccPerils": [
+                "ZSN",
+                "ZST",
+                "XHL",
+                "WW1",
+                "WSS"
+            ],
+            "AccDedType1Building": "2",
+            "AccDed1Building": 50446346
+        },
+        "Locations": [
+            {
+                "LocNumber": "enim in null",
+                "LocName": "in Ut",
+                "CountryCode": "aute sit sed",
+                "Latitude": -53,
+                "Longitude": -48,
+                "StreetAddress": "consequat",
+                "PostalCode": "eu officia consequat",
+                "City": "sed"
+            }
+        ]
+    },
+    {
+        "AccNumber": "incididunt",
+        "AccStatus": "ut",
+        "AccountFinancials": {
+            "AccPerils": [
+                "QQ1",
+                "MM1",
+                "QLF",
+                "WTC",
+                "QSL"
+            ],
+            "AccDedType1Building": "2",
+            "AccDed1Building": 25735491
+        },
+        "Locations": [
+            {
+                "LocNumber": "ad in eu anim",
+                "LocName": "sunt laboris",
+                "CountryCode": "irure nulla",
+                "Latitude": 19,
+                "Longitude": 125,
+                "StreetAddress": "veniam Excepteur mollit magna",
+                "PostalCode": "nostrud officia id dolore ullamco",
+                "City": "proident incididunt"
+            }
+        ]
+    },
+    {
+        "AccNumber": "qui",
+        "AccStatus": "esse consectetur et",
+        "AccountFinancials": {
+            "AccPerils": [
+                "WW1",
+                "WTC",
+                "WW2",
+                "ZST",
+                "XZ1"
+            ],
+            "AccDedType1Building": "2",
+            "AccDed1Building": 22779502
+        },
+        "Locations": [
+            {
+                "LocNumber": "est non",
+                "LocName": "amet in voluptate",
+                "CountryCode": "in",
+                "Latitude": -70,
+                "Longitude": 64,
+                "StreetAddress": "nostrud elit amet qui",
+                "PostalCode": "sit quis",
+                "City": "ut minim sit"
+            },
+            {
+                "LocNumber": "cupidatat",
+                "LocName": "in dolo",
+                "CountryCode": "in",
+                "Latitude": 17,
+                "Longitude": -54,
+                "StreetAddress": "ut deserunt minim",
+                "PostalCode": "fugiat tempor aliqua consequat",
+                "City": "sint"
+            },
+            {
+                "LocNumber": "nulla incididunt",
+                "LocName": "id ullamco",
+                "CountryCode": "ipsum commodo nisi ut",
+                "Latitude": -75,
+                "Longitude": -84,
+                "StreetAddress": "deserunt eu incididunt sed do",
+                "PostalCode": "sed labore velit sint",
+                "City": "cillum"
+            }
+        ]
+    },
+    {
+        "AccNumber": "dolore in sed",
+        "AccStatus": "ex laborum laboris nisi nostrud",
+        "AccountFinancials": {
+            "AccPerils": [
+                "BSK",
+                "QTS",
+                "BFR"
+            ],
+            "AccDedType1Building": "2",
+            "AccDed1Building": 10374419
+        },
+        "Locations": [
+            {
+                "LocNumber": "tempor proident labore nisi",
+                "LocName": "reprehenderit exercitation proident cupidata",
+                "CountryCode": "proident incididunt reprehenderit",
+                "Latitude": 32,
+                "Longitude": 36,
+                "StreetAddress": "amet dolore nulla proident",
+                "PostalCode": "laborum aute",
+                "City": "exercitation incididunt velit minim elit"
+            },
+            {
+                "LocNumber": "voluptate fugiat",
+                "LocName": "Ut ad in consequat",
+                "CountryCode": "sint",
+                "Latitude": -49,
+                "Longitude": -110,
+                "StreetAddress": "consequat sunt occaecat",
+                "PostalCode": "aliquip do voluptate in aliqua",
+                "City": "Duis do"
+            }
+        ]
+    },
+    {
+        "AccNumber": "nostrud deserunt nisi officia",
+        "AccStatus": "do quis anim cillum eiusmod",
+        "AccountFinancials": {
+            "AccPerils": [
+                "QQ1",
+                "QSL",
+                "ZZ1",
+                "QEQ"
+            ],
+            "AccDedType1Building": "1",
+            "AccDed1Building": 62215885
+        },
+        "Locations": [
+            {
+                "LocNumber": "elit fugiat",
+                "LocName": "deserunt do incididunt in",
+                "CountryCode": "nostrud ex cupidatat non in",
+                "Latitude": 60,
+                "Longitude": 28,
+                "StreetAddress": "et occaecat",
+                "PostalCode": "ut minim",
+                "City": "et dolor quis"
+            },
+            {
+                "LocNumber": "Lorem consectetur",
+                "LocName": "quis esse pariatur Excepteur",
+                "CountryCode": "Ut laborum Duis voluptate",
+                "Latitude": 70,
+                "Longitude": -125,
+                "StreetAddress": "culpa do consectetur nostrud laborum",
+                "PostalCode": "nulla",
+                "City": "Excepteur amet eiusmod"
+            },
+            {
+                "LocNumber": "in dolor aute",
+                "LocName": "consequat labore incididunt",
+                "CountryCode": "voluptate",
+                "Latitude": 2,
+                "Longitude": -35,
+                "StreetAddress": "nulla",
+                "PostalCode": "laboris Excepteur esse",
+                "City": "sunt dolore minim"
+            }
+        ]
+    }
+]
