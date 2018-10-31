@@ -20,4 +20,4 @@ pretty-xml < example_raw.xml > example.xml
 #
 json-markdown udf_example.schema.json 
 # Hack to fix a small issue in the header definitions
-sed -i "s/#\([^#]\)/[# \1]/" udf_example.md
+sed -i "s/#\([^#]\)/# \1/" udf_example.md

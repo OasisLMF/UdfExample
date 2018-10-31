@@ -1,6 +1,6 @@
-[# A]ccount
+# Account
 
-###[# T]ype: object
+#### Type: object
 
 __add description to json file__
 
@@ -8,14 +8,14 @@ __add description to json file__
 | ------- | ------- | ----------- | ------- |
 | AccNumber | string | Account number. |  |
 | AccStatus | string | Account status. |  |
-| [AccountFinancials]([# a]ccountfinancials) | object |  |  |
+| [AccountFinancials](# accountfinancials) | object |  |  |
 | Locations | array |  |  |
 
 *****
 
-#[# A]ccountFinancials
+## AccountFinancials
 
-###[# T]ype: object
+#### Type: object
 
 __add description to json file__
 
@@ -31,9 +31,9 @@ Allowed AccPerils: ENUM(QEQ, QFF, QTS, QSL, QLS, QLF, WTC, WEC, WSS, ORF, OSF, X
 
 *****
 
-#[# A]ccPerils:undefined
+## AccPerils:undefined
 
-###[# T]ype: string
+#### Type: string
 
 __add description to json file__
 
@@ -42,9 +42,9 @@ Allowed: ENUM(QEQ, QFF, QTS, QSL, QLS, QLF, WTC, WEC, WSS, ORF, OSF, XSL, XTD, X
 
 *****
 
-#[# L]ocations:undefined
+## Locations:undefined
 
-###[# T]ype: object
+#### Type: object
 
 __add description to json file__
 
