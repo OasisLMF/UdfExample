@@ -14,9 +14,10 @@ To generate the other assets run the following command:
 source dry_example.sh
 ```
 The will generate:
-* [Example JSON](example_pp.json)
+* [Example XML](example.xml)
+* [Example JSON](example.json)
 * [Example YAML](example.yaml)
-* [Documentation](docs/index.html)
+* [Documentation](udf_example.md)
 
 Todo:
 * SQL DDL
