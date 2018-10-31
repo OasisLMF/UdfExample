@@ -2,3 +2,6 @@ json-schema-test-data-generator
 json2yaml
 bootprint
 bootprint-json-schema
+json2xml-cli
+wetzel
+pretty-xml
