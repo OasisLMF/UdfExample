@@ -7,6 +7,7 @@ Install the required npm packages using the following command:
 ```
 cat requirements.txt | xargs npm install -g
 ```
+N.B. only tested on Ubuntu 16.04
 
 ## Running
 To generate the other assets run the following command:
