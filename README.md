@@ -7,6 +7,7 @@ Install the required npm packages using the following command:
 ```
 cat requirements.txt | xargs npm install -g
 ```
+N.B. only tested on Ubuntu 16.04
 
 ## Running
 To generate the other assets run the following command:
@@ -14,9 +15,12 @@ To generate the other assets run the following command:
 source dry_example.sh
 ```
 The will generate:
-* [Example JSON](example_pp.json)
+* [Example XML](example.xml)
+* [Example JSON](example.json)
 * [Example YAML](example.yaml)
-* [Documentation](docs/index.html)
+* [Documentation](udf_example.md)
 
-Todo:
+## Todo
+
 * SQL DDL
+* Data input web form 
