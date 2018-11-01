@@ -1,211 +1,42 @@
 ---
   - 
-    AccNumber: "Duis sunt aliqua eu"
-    AccStatus: "adipisicing"
+    AccNumber: "qu"
+    AccStatus: "ut cupidatat do minim"
     AccountFinancials: 
       AccPerils: 
-        - "ZFZ"
+        - "XZ1"
+        - "BFR"
         - "XTD"
-      AccDedType1Building: "2"
-      AccDed1Building: 68195302
-    Locations: 
-      - 
-        LocNumber: "deserunt in"
-        LocName: "proident ullamco elit"
-        CountryCode: "laborum"
-        Latitude: -28
-        Longitude: -133
-        StreetAddress: "tempor consequat commodo"
-        PostalCode: "quis consequat dolor deserunt"
-        City: "minim sed"
-      - 
-        LocNumber: "pariatur"
-        LocName: "in nostrud adipisicing nulla"
-        CountryCode: "nostrud culpa est magna ea"
-        Latitude: 40
-        Longitude: 0
-        StreetAddress: "Duis exercitation"
-        PostalCode: "voluptate do ad nisi elit"
-        City: "laborum"
-      - 
-        LocNumber: "qui dolore"
-        LocName: "eu ex ea ad"
-        CountryCode: "aute tempor minim Duis Excepteur"
-        Latitude: 87
-        Longitude: -79
-        StreetAddress: "non"
-        PostalCode: "Excepteur sit ipsum minim"
-        City: "culpa quis"
-  - 
-    AccNumber: "fugiat sit dolor"
-    AccStatus: "nulla culpa deserunt Excepteur Duis"
-    AccountFinancials: 
-      AccPerils: 
-        - "XHL"
-        - "ZZ1"
-        - "MM1"
-        - "BBF"
-        - "WW2"
-      AccDedType1Building: "2"
-      AccDed1Building: 54483020
-    Locations: 
-      - 
-        LocNumber: "cil"
-        LocName: "Duis ullamco sit sunt veniam"
-        CountryCode: "nostrud"
-        Latitude: -11
-        Longitude: 31
-        StreetAddress: "velit Excepteur"
-        PostalCode: "do elit esse"
-        City: "consequat et"
-      - 
-        LocNumber: "irure"
-        LocName: "dolore aliqua reprehenderit i"
-        CountryCode: "mollit exercitation"
-        Latitude: -90
-        Longitude: 62
-        StreetAddress: "ut ex Ut ipsum exercitation"
-        PostalCode: "anim cupidatat ullamco enim elit"
-        City: "Ut deserunt non dolore sit"
-      - 
-        LocNumber: "cupidatat nostrud amet"
-        LocName: "pariatur mollit dolor anim nostrud"
-        CountryCode: "dolore minim Lorem"
-        Latitude: -21
-        Longitude: -86
-        StreetAddress: "sed"
-        PostalCode: "labore Ut est "
-        City: "eiusmod dolo"
-      - 
-        LocNumber: "adipisicing"
-        LocName: "proident in aute dolor culpa"
-        CountryCode: "anim"
-        Latitude: -52
-        Longitude: 92
-        StreetAddress: "esse e"
-        PostalCode: "do"
-        City: "qu"
-      - 
-        LocNumber: "labore cupidatat a"
-        LocName: "exercitation"
-        CountryCode: "enim"
-        Latitude: -58
-        Longitude: -40
-        StreetAddress: "laboris inci"
-        PostalCode: "anim"
-        City: "eu in fugiat"
-  - 
-    AccNumber: "veniam"
-    AccStatus: "elit"
-    AccountFinancials: 
-      AccPerils: 
-        - "QTS"
-        - "ZZ1"
-        - "XX1"
-      AccDedType1Building: "2"
-      AccDed1Building: 33000935
-    Locations: 
-      - 
-        LocNumber: "occaecat laborum elit cupidatat"
-        LocName: "amet ad dolore labore"
-        CountryCode: "Duis"
-        Latitude: -57
-        Longitude: 163
-        StreetAddress: "nulla esse proident aliquip"
-        PostalCode: "ut ullamco nulla fugiat"
-        City: "ex laboris elit deserunt aliqua"
-      - 
-        LocNumber: "aute dolor"
-        LocName: "labore ex quis cupidatat"
-        CountryCode: "dolor incididunt sint"
-        Latitude: -81
-        Longitude: 106
-        StreetAddress: "dolore irure reprehenderit qui in"
-        PostalCode: "eiusmod exer"
-        City: "eiusmod aliqua exercitation ullamco"
-  - 
-    AccNumber: "aliqua minim Ut adipisicing fugiat"
-    AccStatus: "voluptate"
-    AccountFinancials: 
-      AccPerils: 
-        - "WW1"
-        - "ZFZ"
-        - "WW2"
-        - "AA1"
+        - "WEC"
+        - "QLS"
       AccDedType1Building: "1"
-      AccDed1Building: 3249920
+      AccDed1Building: 72074974
     Locations: 
       - 
-        LocNumber: "sunt est eiusmod laboris"
-        LocName: "enim adipisicing"
-        CountryCode: "in veniam Duis id mollit"
-        Latitude: 50
-        Longitude: 108
-        StreetAddress: "nulla"
-        PostalCode: "consequat"
-        City: "mollit in laborum dolor"
+        LocNumber: "adipisicing ei"
+        LocName: "sunt"
+        CountryCode: "reprehenderit id ad"
+        Latitude: 53
+        Longitude: 74
+        StreetAddress: "laboris ad irure dolore"
+        PostalCode: "reprehenderit ut"
+        City: "cupidatat dolore pariatur"
       - 
-        LocNumber: "sit sunt cillum consequat"
-        LocName: "labore consectetur ut"
-        CountryCode: "proident anim labore in"
-        Latitude: -39
-        Longitude: -80
-        StreetAddress: "dolore"
-        PostalCode: "consectetur"
-        City: "amet"
+        LocNumber: "magna dolore ipsum consequat"
+        LocName: "enim consectetur irure in"
+        CountryCode: "ad Lorem"
+        Latitude: -22
+        Longitude: 153
+        StreetAddress: "cupidatat"
+        PostalCode: "voluptate officia"
+        City: "aliqua proident in dolore ut"
       - 
-        LocNumber: "in ul"
-        LocName: "consequat sit deserunt"
-        CountryCode: "eu ipsum"
-        Latitude: -34
-        Longitude: 76
-        StreetAddress: "labore"
-        PostalCode: "proident culpa officia"
-        City: "aliqua adipisicing"
-      - 
-        LocNumber: "est dolore"
-        LocName: "anim mo"
-        CountryCode: "aute ad ex aliqua elit"
-        Latitude: 54
-        Longitude: 66
-        StreetAddress: "in exerc"
-        PostalCode: "cupidatat in"
-        City: "ea"
-  - 
-    AccNumber: "nulla cillum"
-    AccStatus: "mollit Duis consectetur"
-    AccountFinancials: 
-      AccPerils: 
-        - "MTR"
-        - "OSF"
-      AccDedType1Building: "2"
-      AccDed1Building: 46010191
-    Locations: 
-      - 
-        LocNumber: "eiusmod mollit"
-        LocName: "in"
-        CountryCode: "non"
-        Latitude: -28
-        Longitude: -68
-        StreetAddress: "velit "
-        PostalCode: "eu"
-        City: "in aliquip sint"
-      - 
-        LocNumber: "dolore Excepteur exercitation ipsum"
-        LocName: "cupidatat veniam"
-        CountryCode: "mollit"
-        Latitude: 33
-        Longitude: -142
-        StreetAddress: "nisi Excepteur dolore"
-        PostalCode: "velit cillum sed occaecat"
-        City: "Du"
-      - 
-        LocNumber: "Excep"
-        LocName: "Excepteur irure "
-        CountryCode: "Excepteur"
-        Latitude: 81
-        Longitude: -69
-        StreetAddress: "deserunt aliqua consectetur laborum"
-        PostalCode: "adipisicing"
-        City: "dolor ea"
+        LocNumber: "in nostrud"
+        LocName: "eiusmod qui labore quis"
+        CountryCode: "qui in"
+        Latitude: 85
+        Longitude: -8
+        StreetAddress: "sed magna adipisicing esse officia"
+        PostalCode: "esse officia sed mollit ullamco"
+        City: "incididunt deserunt dolore occaecat velit"
 

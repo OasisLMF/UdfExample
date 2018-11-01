@@ -1,7 +1,7 @@
 #
 # Creates example exposures in JSON.
 #
-generate-json udf_example.schema.json example_raw.json 5
+generate-json udf_example.schema.json example_raw.json 1
 python -mjson.tool < example_raw.json > example.json
 
 #
