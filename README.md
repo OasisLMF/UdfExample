@@ -5,7 +5,7 @@ The central asset is the [JSON schema](udf_example.schema.json) that represents 
 ## Installation
 Install the required npm packages using the following command:
 ```
-cat requirements.txt | xargs npm install -g
+cat npm.txt | xargs npm install -g
 ```
 N.B. only tested on Ubuntu 16.04
 
